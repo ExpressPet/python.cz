@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200415T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-04-15@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+GEO:49.748838;13.377557
+DTSTAMP:20200407T021658Z
+DTSTART:20200513T160000Z
+SUMMARY:Plzeňské Pyvo #14 Návrhové vzory
+DESCRIPTION:Vážení přátelé a příznivci našich setkání!\n\nKaždému vývojáři se poměrně brzo stane\, že ve světě kódu se neustále objevují stejné\, či velmi podobné situace.\nJako odpověď na tuto skutečnost\, napříč mnoha lety co toto odvětví existuje\, vznikly jisté vzory\, které tyto\nsituace řeší. Říká se jim - Návrhové vzory (Design patterns).\n\nNávrhové vzory\, nejsou nutně vázány na kontrétní jazyk a tudíž je toto téma vhodné i pro ne-pythonisty.\n\n**POZOR\, ZMĚNA TERMÍNU!**\n\nOmlouváme se\, ale z preventivních důvodů jsme se rozhodli změnit termín našeho pravidelného setkání.\nPředběžně jsme jej posunuli na 13.5. Uvidíme\, jak se bude situace vyvíjet.\nDíky za pochopení.\nZa organizátory\, Tomáš Bedřich\n
+LOCATION:Beer Factory\, Dominikánská 13/8\, Plzeň\, Plzeň
+URL:https://pyvo.cz/plzen-pyvo/2020-05/
+TRANSP:OPAQUE
+UID:plzen-pyvo-2020-05-13@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200924T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-09-24@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200429T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-04-29@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200625T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-06-25@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200715T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-07-15@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200916T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-09-16@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200729T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-07-29@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200930T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-09-30@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200617T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-06-17@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200701T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-07-01@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200902T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-09-02@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200827T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-08-27@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200603T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-06-03@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200528T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-05-28@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200430T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-04-30@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200708T160000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2020-07-08@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200624T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-06-24@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200909T160000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2020-09-09@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200520T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-05-20@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200819T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-08-19@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200730T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-07-30@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200805T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-08-05@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200506T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-05-06@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200826T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-08-26@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200407T021658Z
+DTSTART:20200527T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-05-27@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+END:VCALENDAR
